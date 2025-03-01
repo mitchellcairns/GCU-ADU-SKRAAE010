@@ -884,7 +884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "hhl:SKRR"
 			(at 128.27 62.23 0)
 			(effects
 				(font
@@ -1112,7 +1112,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "hhl:SKRR"
 			(at 128.27 52.07 0)
 			(effects
 				(font
@@ -1180,7 +1180,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "hhl:SKRR"
 			(at 128.27 41.91 0)
 			(effects
 				(font
@@ -1248,7 +1248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm"
+		(property "Footprint" "hhl:SKRR"
 			(at 128.27 72.39 0)
 			(effects
 				(font
